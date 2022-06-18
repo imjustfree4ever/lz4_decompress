@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#!/usr/bin/python3
 
 import sys, struct, lz4.block, os.path
 
